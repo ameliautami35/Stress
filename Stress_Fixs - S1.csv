@@ -1,0 +1,148 @@
+ID,Gender,Faculty,Department,Nature Of God,On Human Nature,,,On Knowledge,,,,,On Ethic,On Reality,,,,
+,,,,Q5,Q8,Q9,Q10,Q13,Q14,Q15,Q16,Q17,Q24,Q26,Q27,Q28,Q29,Q30
+A1,Perempuan,TARBIYAH,Pendidikan Agama Islam,1,4,5,5,5,4,2,1,1,3,3,4,1,1,1
+A2,Perempuan,TARBIYAH,Pendidikan Agama Islam,5,3,3,4,5,5,5,3,4,5,5,3,4,4,3
+A3,Perempuan,TARBIYAH,Pendidikan Agama Islam,1,5,5,1,5,5,5,1,1,5,5,5,5,5,5
+A4,Perempuan,TARBIYAH,Pendidikan Agama Islam,5,5,5,1,5,5,5,1,5,5,5,5,1,1,1
+A5,Perempuan,TARBIYAH,Pendidikan Agama Islam,1,3,4,1,3,3,4,1,2,2,3,5,4,2,2
+A6,Perempuan,TARBIYAH,Tadris Bahasa Inggris,2,4,4,1,4,4,4,2,1,3,3,3,1,1,1
+A7,Perempuan,TARBIYAH,Tadris Bahasa Inggris,2,3,3,3,4,4,4,2,3,4,4,3,2,2,2
+A8,Perempuan,TARBIYAH,Tadris Bahasa Inggris,3,4,5,5,5,4,4,5,5,3,4,2,5,4,3
+A9,Perempuan,TARBIYAH,Tadris Bahasa Inggris,2,5,4,4,4,4,3,3,4,4,3,1,4,5,2
+A10,Perempuan,TARBIYAH,Tadris Bahasa Inggris,5,5,5,5,5,5,5,3,5,3,3,4,5,4,3
+A11,Perempuan,TARBIYAH,Pendidikan Bahasa Arab,3,4,5,5,5,5,5,1,5,5,5,5,3,4,3
+A12,Perempuan,TARBIYAH,Pendidikan Bahasa Arab,1,3,3,4,2,4,5,1,4,2,5,3,4,3,1
+A13,Perempuan,TARBIYAH,Pendidikan Bahasa Arab,1,4,5,2,5,5,5,1,4,5,5,5,5,5,3
+A14,Perempuan,TARBIYAH,Pendidikan Bahasa Arab,1,5,5,1,5,5,5,1,3,5,3,5,4,4,2
+A15,Perempuan,TARBIYAH,Pendidikan Bahasa Arab,1,5,5,5,1,5,5,1,5,5,5,5,5,3,3
+A16,Perempuan,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,1,2,5,2,5,5,5,5,1,5,5,5,1,3,5
+A17,Perempuan,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,2,4,5,5,2,4,3,2,3,2,3,4,4,3,3
+A18,Perempuan,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,1,5,5,3,3,5,5,1,2,5,5,5,5,4,3
+A19,Perempuan,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,1,4,5,1,5,5,5,2,2,5,5,4,4,4,1
+A20,Perempuan,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,1,1,5,1,5,4,5,1,1,1,4,3,1,1,1
+A21,Perempuan,USULUDDIN,Akidah Filsafat Islam,3,5,5,3,4,5,5,1,4,5,3,3,4,3,2
+A22,Perempuan,USULUDDIN,Akidah Filsafat Islam,1,5,5,5,5,5,5,2,5,5,5,5,5,5,3
+A23,Perempuan,USULUDDIN,Akidah Filsafat Islam,2,5,5,2,5,5,5,1,3,4,5,4,3,3,2
+A24,Perempuan,SYARI'AH,Hukum Ekonomi Syariah,2,5,5,4,3,2,5,2,3,2,3,2,4,5,4
+A25,Perempuan,SYARI'AH,Hukum Ekonomi Syariah,1,4,5,3,5,5,5,1,4,5,5,1,5,2,1
+A26,Perempuan,SYARI'AH,Hukum Ekonomi Syariah,5,4,5,3,3,5,5,2,3,5,4,4,4,4,3
+A27,Perempuan,SYARI'AH,Hukum Ekonomi Syariah,4,5,5,3,3,5,5,1,4,5,3,5,3,4,4
+A28,Perempuan,SYARI'AH,Hukum Ekonomi Syariah,5,5,5,5,5,5,5,1,4,5,3,5,5,3,3
+A29,Perempuan,SYARI'AH,Perbandingan Madzhab,5,4,5,3,5,4,4,2,4,4,4,4,2,4,4
+A30,Perempuan,SYARI'AH,Perbandingan Madzhab,5,4,4,2,5,5,4,3,3,5,5,4,4,4,4
+A31,Perempuan,SYARI'AH,Perbandingan Madzhab,1,2,5,1,5,5,5,1,2,5,4,4,2,2,1
+A32,Perempuan,SYARI'AH,Perbandingan Madzhab,3,4,5,1,5,5,5,1,2,4,5,4,2,1,1
+A33,Perempuan,SYARI'AH,Perbandingan Madzhab,1,3,5,1,5,5,5,1,1,5,5,4,1,1,1
+A34,Perempuan,EKONOMI & MANAJEMEN,Manajemen,3,4,5,3,4,4,4,1,2,2,5,4,3,2,3
+A35,Perempuan,EKONOMI & MANAJEMEN,Manajemen,2,4,4,2,5,5,4,2,4,5,3,3,3,3,2
+A36,Perempuan,EKONOMI & MANAJEMEN,Manajemen,2,3,3,3,5,4,3,2,4,3,3,3,4,3,4
+A37,Perempuan,EKONOMI & MANAJEMEN,Manajemen,1,5,5,3,5,4,5,2,3,3,3,3,3,3,3
+A38,Perempuan,EKONOMI & MANAJEMEN,Manajemen,4,4,5,3,4,4,4,4,4,5,5,5,5,3,2
+A39,Perempuan,EKONOMI & MANAJEMEN,Ekonomi Islam,1,5,5,4,4,5,5,2,5,4,5,5,1,1,5
+A40,Perempuan,EKONOMI & MANAJEMEN,Ekonomi Islam,1,3,5,4,4,4,5,2,4,3,5,3,5,4,5
+A41,Perempuan,EKONOMI & MANAJEMEN,Ekonomi Islam,1,5,5,4,4,5,5,5,3,3,3,3,3,1,3
+A42,Perempuan,EKONOMI & MANAJEMEN,Ekonomi Islam,1,4,5,5,4,5,5,2,5,2,2,2,5,5,5
+A43,Perempuan,EKONOMI & MANAJEMEN,Ekonomi Islam,4,4,5,2,4,3,5,1,5,5,1,4,4,4,3
+A44,Perempuan,EKONOMI & MANAJEMEN,Ekonomi Islam,5,5,5,1,5,5,5,5,1,5,5,5,5,1,1
+A45,Perempuan,HUMANIORA,Hubungan International,1,5,5,1,5,5,5,5,5,5,2,3,4,1,4
+A46,Perempuan,HUMANIORA,Hubungan International,1,5,5,2,5,5,5,1,4,5,5,5,3,3,2
+A47,Perempuan,HUMANIORA,Hubungan International,5,5,4,3,5,5,5,1,3,5,4,4,4,4,5
+A48,Perempuan,HUMANIORA,Hubungan International,1,3,3,1,5,5,5,1,5,3,3,3,4,4,2
+A49,Perempuan,HUMANIORA,Hubungan International,5,5,5,3,4,4,5,1,4,4,2,3,4,3,5
+A50,Perempuan,HUMANIORA,Hubungan International,1,5,5,3,5,5,5,1,3,5,5,5,3,3,4
+A51,Perempuan,ILKES,Gizi,1,4,5,5,4,5,5,3,4,5,5,5,3,3,3
+A52,Perempuan,ILKES,Gizi,1,4,4,3,4,5,5,3,4,4,4,4,3,4,3
+A53,Perempuan,ILKES,Gizi,1,5,5,1,5,5,5,1,1,1,1,5,1,1,1
+A54,Perempuan,ILKES,Gizi,3,5,5,5,5,4,5,1,4,5,5,5,5,5,5
+A55,Perempuan,ILKES,Gizi,2,4,5,5,5,5,5,2,4,3,3,3,4,4,3
+A56,Perempuan,ILKES,Farmasi,1,5,5,1,5,5,5,1,5,5,5,5,3,4,1
+A57,Perempuan,ILKES,Farmasi,2,3,3,1,5,5,5,3,3,4,5,5,3,2,3
+A58,Perempuan,ILKES,Farmasi,1,5,5,3,5,5,5,1,1,5,5,5,1,1,1
+A59,Perempuan,ILKES,Farmasi,1,4,5,3,5,5,5,1,4,5,5,4,3,3,1
+A60,Perempuan,ILKES,Farmasi,1,5,3,3,5,5,5,1,2,5,5,5,2,1,1
+A61,Perempuan,SAINTEK,Teknik Informatika,3,3,3,3,3,3,3,2,3,4,4,4,3,2,2
+A62,Perempuan,SAINTEK,Teknik Informatika,3,5,5,3,5,5,5,3,3,5,5,5,5,3,3
+A63,Perempuan,SAINTEK,Teknik Informatika,1,4,5,4,5,5,4,1,4,3,3,5,3,3,3
+A64,Perempuan,SAINTEK,Teknik Informatika,5,3,3,2,4,4,4,4,3,4,4,3,3,4,3
+A65,Perempuan,SAINTEK,Teknik Informatika,1,2,4,2,3,5,4,2,3,5,5,5,5,2,2
+A66,Perempuan,SAINTEK,Teknik Informatika,2,4,5,4,5,5,5,1,2,5,5,5,3,2,2
+A67,Perempuan,SAINTEK,Teknik Informatika,2,5,5,5,5,5,5,5,5,5,5,5,3,4,3
+A68,Perempuan,SAINTEK,Teknik Informatika,3,4,5,1,5,5,5,1,2,3,5,2,2,1,1
+A69,Perempuan,SAINTEK,Teknik Informatika,2,5,5,2,5,4,5,2,2,5,4,3,5,5,5
+A70,Perempuan,SAINTEK,Teknik Informatika,3,5,5,3,5,5,5,2,4,3,2,2,4,5,5
+A71,Perempuan,SAINTEK,Teknik Informatika,5,4,5,5,5,5,4,3,4,4,4,3,4,4,4
+A72,Perempuan,SAINTEK,Teknik Informatika,3,5,5,3,5,5,5,2,3,5,5,5,5,5,4
+A73,Perempuan,SAINTEK,Agroteknologi,2,4,5,4,5,5,4,2,4,3,3,4,4,4,5
+A74,Laki - laki,TARBIYAH,Pendidikan Agama Islam,1,3,4,2,4,4,4,4,2,3,3,4,2,2,1
+A75,Laki - laki,TARBIYAH,Pendidikan Agama Islam,5,5,5,5,5,5,5,1,5,5,4,4,3,3,3
+A76,Laki - laki,TARBIYAH,Pendidikan Agama Islam,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+A77,Laki - laki,TARBIYAH,Pendidikan Agama Islam,4,1,4,1,5,4,4,3,3,4,3,4,2,2,3
+A78,Laki - laki,TARBIYAH,Pendidikan Agama Islam,4,4,3,4,4,4,4,4,3,4,4,4,3,3,4
+A79,Laki - laki,TARBIYAH,Pendidikan Agama Islam,3,5,5,3,5,3,3,1,1,5,5,3,3,3,1
+A80,Laki - laki,TARBIYAH,Pendidikan Agama Islam,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+A81,Laki - laki,TARBIYAH,Pendidikan Agama Islam,5,4,5,5,4,4,4,4,4,4,4,4,4,4,4
+A82,Laki - laki,TARBIYAH,Pendidikan Agama Islam,5,5,5,3,3,5,5,2,2,5,5,5,1,1,1
+A83,Laki - laki,TARBIYAH,Pendidikan Bahasa Arab,1,5,5,2,4,5,5,1,2,4,5,5,2,2,1
+A84,Laki - laki,TARBIYAH,Pendidikan Bahasa Arab,1,1,1,1,1,1,1,1,1,1,1,2,4,4,5
+A85,Laki - laki,TARBIYAH,Pendidikan Bahasa Arab,5,5,5,1,5,4,4,2,5,3,4,3,4,4,5
+A86,Laki - laki,TARBIYAH,Pendidikan Bahasa Arab,3,4,4,3,3,3,4,3,3,4,4,3,3,3,3
+A87,Laki - laki,TARBIYAH,Pendidikan Bahasa Arab,3,5,5,3,5,5,5,5,4,5,5,5,3,3,3
+A88,Laki - laki,TARBIYAH,Pendidikan Bahasa Arab,2,3,5,2,4,4,4,2,2,3,4,4,4,4,4
+A89,Laki - laki,TARBIYAH,Pendidikan Bahasa Arab,3,4,5,5,5,5,4,3,3,4,4,4,4,4,4
+A90,Laki - laki,TARBIYAH,Tadris Bahasa Inggris,2,4,5,4,5,5,5,2,3,3,3,3,4,3,3
+A91,Laki - laki,TARBIYAH,Tadris Bahasa Inggris,1,4,4,3,5,5,5,1,4,5,5,5,5,3,2
+A92,Laki - laki,TARBIYAH,Tadris Bahasa Inggris,5,4,5,2,3,4,3,2,3,4,5,4,3,3,3
+A93,Laki - laki,TARBIYAH,Tadris Bahasa Inggris,3,3,4,4,4,4,5,3,4,4,3,3,4,4,4
+A94,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,3,5,5,3,3,5,3,1,3,3,3,3,3,3,3
+A95,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,1,3,3,1,3,5,5,1,3,5,5,3,3,3,1
+A96,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,4,5,4,2,5,5,5,2,2,5,4,4,3,2,2
+A97,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,5,5,5,5,5,5,5,3,5,5,5,5,1,1,1
+A98,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+A99,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,1,5,5,1,5,5,5,2,4,3,4,5,5,4,3
+A100,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,1,5,5,1,4,5,5,2,2,4,5,5,2,2,1
+A101,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,3,1,5,4,5,5,5,2,4,5,5,5,3,1,3
+A102,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,1,1,1,3,1,1,1,3,2,2,3,1,2,2,2
+A103,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,5,5,5,5,5,4,5,1,5,5,4,5,5,4,4
+A104,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5
+A105,Laki - laki,USULUDDIN,Ilmu Al-Qur'an dan Tafsir,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+A106,Laki - laki,USULUDDIN,Akidah Filsafat Islam,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+A107,Laki - laki,USULUDDIN,Akidah Filsafat Islam,2,1,4,2,4,4,4,2,2,4,4,4,2,2,2
+A108,Laki - laki,USULUDDIN,Akidah Filsafat Islam,1,4,3,2,5,5,4,3,3,5,5,5,3,3,3
+A109,Laki - laki,USULUDDIN,Akidah Filsafat Islam,5,5,5,5,5,5,5,1,3,5,5,5,5,4,5
+A110,Laki - laki,USULUDDIN,Studi Agama-agama,2,3,4,3,3,4,4,3,3,3,5,5,3,2,2
+A111,Laki - laki,SYARI'AH,Hukum Ekonomi Syariah,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5
+A112,Laki - laki,SYARI'AH,Hukum Ekonomi Syariah,1,5,5,2,5,5,5,2,4,4,5,5,4,4,3
+A113,Laki - laki,SYARI'AH,Hukum Ekonomi Syariah,1,5,2,1,5,5,5,1,1,5,5,5,1,1,1
+A114,Laki - laki,SYARI'AH,Perbandingan Madzhab,4,3,4,3,4,4,4,2,3,4,4,3,3,3,2
+A115,Laki - laki,EKONOMI & MANAJEMEN,Ekonomi Islam,4,5,5,4,4,4,4,2,3,5,5,4,3,3,2
+A116,Laki - laki,EKONOMI & MANAJEMEN,Ekonomi Islam,3,3,3,3,3,4,3,3,3,3,3,3,3,3,3
+A117,Laki - laki,EKONOMI & MANAJEMEN,Ekonomi Islam,5,3,4,5,5,4,4,3,5,5,4,3,3,4,5
+A118,Laki - laki,HUMANIORA,Hubungan International,1,5,5,4,5,5,5,1,3,5,5,5,2,3,3
+A119,Laki - laki,HUMANIORA,Hubungan International,3,4,5,3,5,5,3,2,4,5,5,5,3,3,4
+A120,Laki - laki,HUMANIORA,Hubungan International,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A121,Laki - laki,HUMANIORA,Hubungan International,1,5,5,5,5,5,3,2,5,3,3,3,5,5,5
+A122,Laki - laki,HUMANIORA,Hubungan International,3,5,5,5,5,5,5,3,5,5,5,5,3,5,3
+A123,Laki - laki,HUMANIORA,Hubungan International,2,4,4,3,4,4,4,1,3,5,5,5,1,2,3
+A124,Laki - laki,ILKES,Keselamatan dan Kesehatan Kerja,3,5,4,2,4,4,4,3,4,5,4,4,5,4,4
+A125,Laki - laki,SAINTEK,Teknik Informatika,1,3,5,1,5,5,5,1,1,5,5,3,5,3,1
+A126,Laki - laki,SAINTEK,Teknik Informatika,5,1,5,1,3,5,5,2,2,5,5,5,4,2,1
+A127,Laki - laki,SAINTEK,Teknik Informatika,1,3,3,1,5,5,5,1,1,3,3,5,1,1,1
+A128,Laki - laki,SAINTEK,Teknik Informatika,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+A129,Laki - laki,SAINTEK,Teknik Informatika,1,1,1,1,5,5,5,1,1,5,5,5,1,1,1
+A130,Laki - laki,SAINTEK,Teknik Informatika,1,4,4,1,4,4,4,2,3,3,5,5,3,3,3
+A131,Laki - laki,SAINTEK,Teknik Informatika,4,5,5,5,5,5,5,2,4,5,5,5,5,5,5
+A132,Laki - laki,SAINTEK,Teknik Informatika,2,5,5,2,4,4,4,2,5,4,4,4,2,2,2
+A133,Laki - laki,SAINTEK,Teknik Informatika,1,1,1,5,1,1,1,5,5,1,1,1,5,1,1
+A134,Laki - laki,SAINTEK,Teknik Informatika,4,4,5,2,4,4,4,2,2,4,5,5,3,4,2
+A135,Laki - laki,SAINTEK,Teknik Informatika,5,4,5,4,4,5,5,4,5,5,5,4,5,4,5
+A136,Laki - laki,SAINTEK,Teknik Informatika,3,3,3,1,5,5,5,5,2,4,3,3,3,3,3
+A137,Laki - laki,SAINTEK,Teknik Informatika,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4
+A138,Laki - laki,SAINTEK,Teknik Informatika,1,4,4,2,5,5,4,1,2,4,4,4,3,1,1
+A139,Laki - laki,SAINTEK,Teknik Informatika,3,3,5,2,4,3,4,3,3,3,3,2,3,3,3
+A140,Laki - laki,SAINTEK,Teknik Informatika,5,5,5,5,5,5,5,1,4,5,5,5,5,5,5
+A141,Laki - laki,SAINTEK,Teknik Informatika,3,3,5,4,5,5,5,3,3,3,5,4,3,3,4
+A142,Laki - laki,SAINTEK,Agroteknologi,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+A143,Laki - laki,SAINTEK,Agroteknologi,2,4,3,2,4,4,4,2,3,4,4,4,3,2,2
+A144,Laki - laki,SAINTEK,Agroteknologi,4,4,4,2,4,4,3,3,3,3,3,3,3,3,3
+A145,Laki - laki,SAINTEK,Teknologi Industri Pertanian,4,2,4,4,3,3,3,5,3,4,3,4,4,3,5
+A146,Laki - laki,SAINTEK,Teknologi Industri Pertanian,3,4,4,4,4,4,4,2,4,3,4,4,3,3,3
